@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="370" viewBox="0 0 1280 370" role="img" aria-labelledby="title desc">
+  <title id="title">Tony Waiguru</title>
+  <desc id="desc">Python backend development, real-time systems, fintech and automation. Selected projects Talon, VolaPilot, Tyche, and Aegis Meridian.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1726"/><stop offset="1" stop-color="#193242"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#86a9b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="370" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="370" rx="18" fill="url(#grid)"/>
+  <rect x="56" y="54" width="40" height="4" rx="2" fill="#63dcc6"/>
+  <text x="56" y="103" fill="#8ae5d3" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">BACKEND ENGINEERING / SELECTED WORK</text>
+  <text x="53" y="170" fill="#f5f8fc" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="700">Tony Waiguru</text>
+  <text x="56" y="213" fill="#c4d4df" font-family="Segoe UI,Arial,sans-serif" font-size="22">Python · Real-time systems · Fintech and automation</text>
+  <text x="56" y="290" fill="#a8bdc9" font-family="Segoe UI,Arial,sans-serif" font-size="17">TALON</text>
+  <text x="170" y="290" fill="#a8bdc9" font-family="Segoe UI,Arial,sans-serif" font-size="17">VOLAPILOT</text>
+  <text x="324" y="290" fill="#a8bdc9" font-family="Segoe UI,Arial,sans-serif" font-size="17">TYCHE</text>
+  <text x="435" y="290" fill="#a8bdc9" font-family="Segoe UI,Arial,sans-serif" font-size="17">AEGIS MERIDIAN</text>
+  <g fill="none" stroke="#63dcc6" stroke-width="2" opacity=".75">
+    <path d="M945 94v84h104v84h101"/><path d="M945 178h-67v86"/><path d="M1049 178v-84h101"/>
+    <rect x="916" y="65" width="58" height="58" rx="12" fill="#122735"/>
+    <rect x="1020" y="149" width="58" height="58" rx="12" fill="#122735"/>
+    <rect x="1121" y="65" width="58" height="58" rx="12" fill="#122735"/>
+    <rect x="1121" y="233" width="58" height="58" rx="12" fill="#122735"/>
+    <rect x="849" y="235" width="58" height="58" rx="12" fill="#122735"/>
+  </g>
+  <g fill="#b7eee3"><circle cx="945" cy="94" r="5"/><circle cx="1049" cy="178" r="5"/><circle cx="1150" cy="94" r="5"/><circle cx="1150" cy="262" r="5"/><circle cx="878" cy="264" r="5"/></g>
+</svg>

@@ -1,0 +1,18 @@
+# Keep runtime and private review material out of this showcase.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.db
+*.sqlite
+*.sqlite3
+*.log
+node_modules/
+__pycache__/
+.venv*/
+private-review/
+qa/
+Thumbs.db
+desktop.ini
