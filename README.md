@@ -14,6 +14,15 @@ My main projects are **Talon**, **VolaPilot**, **Tyche**, and **Aegis Meridian**
 
 **Connect:** [Email](mailto:tonygatitu10@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tony-waiguru-649246192) · [VolaPilot](https://volapilot.com/)
 
+**Open to opportunities:** Python backend development, software development and automation — full-time or contract, remote or Nairobi hybrid/on-site. [Recruiter overview](HIRING.md) · [CV PDF](Tony_Waiguru_CV.pdf) · [Editable CV](Tony_Waiguru_CV.docx)
+
+### Start here
+
+- **Backend and reliability:** [Talon's architecture and transaction recovery](TALON.md).
+- **Product and API integration:** [VolaPilot's trading workspace](VOLAPILOT.md) and [live site](https://volapilot.com/).
+- **Performance and debugging:** [Tyche's runtime improvements](TYCHE.md).
+- **Research and validation:** [Aegis Meridian's guarded release process](AEGIS_MERIDIAN.md).
+
 ## Selected projects
 
 | Project | What it does | Main technologies |
@@ -79,7 +88,7 @@ Python backend engineering, real-time integrations, automation platforms, transa
 
 ## Telecommunications foundation
 
-Before this software portfolio, my technical experience included radio broadcast operations at **Kenya Broadcasting Corporation** (January-April 2024), aeronautical telecommunications at **Kenya Civil Aviation Authority** (February-April 2022), and broadcast/IT support at **Heaven Bound TV** (August-November 2021).
+My technical foundation includes a telecommunications internship at **Kenya Broadcasting Corporation** (January-April 2024), an aeronautical telecommunications attachment at **Kenya Civil Aviation Authority** (February-April 2022), and a broadcast/IT attachment at **Heaven Bound TV** (August-November 2021).
 
 I hold a **Diploma in Telecommunications Engineering from the East African School of Aviation** (2019-2022). Working with transmission systems, networking, and technical faults informs how I approach observability and recovery in software.
 
