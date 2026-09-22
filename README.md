@@ -95,3 +95,6 @@ I hold a **Diploma in Telecommunications Engineering from the East African Schoo
 ## About this portfolio
 
 These pages describe independently developed projects. The application implementations remain private; this repository contains public technical case studies and my CV. Historical validation results are labelled with their context. Trading profitability, current uptime, and unverified commercial scale are not claimed.
+
+
+Application verification: 2026-09-22
